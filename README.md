@@ -1,5 +1,9 @@
 # Self-introduction
-1.In first grader
+My name
 -
--I learned C, C++, Python <br>
--I studied codding
+My name is Seung Ahn
+
+My favorite things
+-
+-I like playing games with friends
+-I like watching Youtube
