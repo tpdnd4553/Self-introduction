@@ -1,3 +1,5 @@
 # Self-introduction
-In first grader
+1.In first grader
 -
+-I learned C, C++, Python
+-I studied codding
