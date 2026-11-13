@@ -5,5 +5,5 @@ My name is Seung Ahn
 
 My favorite things
 -
--I like playing games with friends
+-I like playing games with friends<br>
 -I like watching Youtube
